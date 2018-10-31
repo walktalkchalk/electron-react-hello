@@ -6,7 +6,8 @@
   "homepage": "./",
   "dependencies": {
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "nf start -p 3000",
