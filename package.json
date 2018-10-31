@@ -23,7 +23,8 @@
   "devDependencies": {
     "electron": "^3.0.5",
     "foreman": "^3.0.1",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "react-test-renderer": "^16.5.2"
   },
   "browserslist": [
     ">0.2%",
